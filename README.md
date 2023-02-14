@@ -1,16 +1,22 @@
 ### Hola! Mi nombre es Lourdes Rosa 👋
 
-##¿Quién soy?
+
+### ¿Quién soy?  
 Soy una programadora Fullstack orientada al diseño Front-end.
 Hace poco me entere de este mundo y la verdad me gusta mucho, le dedico mucho tiempo y es mi meta a futuro seguir aprendiendo.
 
-##¿Qué hago? 👩‍💻
+
+
+### ¿Qué hago? 👩‍💻
 Actualmente, estoy comprometida a participar en diferentes proyectos que me ayudarán a desempeñarme como programadora; y, además, potenciará mis habilidades y conocimientos como desarrolladora.
 
-##¿Hacia dónde me dirijo? 🚀
+
+
+### ¿Hacia dónde me dirijo? 🚀
 Mi objetivo principal es involucrarme cada vez más en en el mundo de la tecnología, participar en múltiples proyectos y aplicar constantemente un nivel de comprensión, empatía, lógica y precisión que es crucial para crear experiencias de usuarios funcionales e intuitivas
 
-##¿Qué tecnologías uso? 💡
+
+### ¿Qué tecnologías uso? 💡
 🔹 Javascript 
 🔹 NodeJs 
 🔹Express 
