@@ -18,15 +18,25 @@ Mi objetivo principal es involucrarme cada vez más en en el mundo de la tecnolo
 
 ### ¿Qué tecnologías uso? 💡
 🔹 Javascript 
+
 🔹 NodeJs 
+
 🔹Express 
+
 🔹React 
+
 🔹Redux 
+
 🔹PostgreSQL 
+
 🔹Sequelize 
+
 🔹MongoDB 
+
 🔹CSS 
+
 🔹HTML 
+
 🔹TypeScript
 
 
