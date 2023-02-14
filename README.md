@@ -39,6 +39,11 @@ Mi objetivo principal es involucrarme cada vez más en en el mundo de la tecnolo
 
 🔹TypeScript
 
+### No dudes en contactarme 📨
+
+Linkendin= www.linkedin.com/in/lourdes-rosa-5a3a3b190
+
+Gmail= lourdesrosaa1@gmail.com
 
 <!--
 **LourdesRosa1/LourdesRosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
